@@ -1,11 +1,8 @@
 # Nguyễn Chí Hiếu
 
 - Học vị: Thạc sĩ
-
 - Chuyên ngành: Khoa học máy tính
-
 - Email: [email](nguyenchihieu@)
-
 - Phone: 
 
 ## Giảng dạy
@@ -20,6 +17,4 @@
 ## Nghiên cứu
 
 - Bảo mật thông tin
-
 - Lập trình thiết bị di động
-
