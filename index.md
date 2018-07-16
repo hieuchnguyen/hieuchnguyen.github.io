@@ -10,7 +10,6 @@
 ### 2018-2019
 
 - [Cấu trúc dữ liệu & Giải thuật](hieuchnguyen.github.io/teaching/dsa)
-- [Phát triển nâng cao cho ứng dụng TBDĐ nền Android](hieuchnguyen.github.io/teaching/android-advanced)
 - [Toán rời rạc](hieuchnguyen.github.io/teaching/ds)
 - [Trí tuệ nhân tạo](https://hieuchnguyen.github.io/teaching/ai)
 
