@@ -10,13 +10,13 @@
 
 ## Giảng dạy
 
-```markdown
-
 ### 2018-2019
 
-- Cấu trúc dữ liệu & Giải thuật
-- Toán rời rạc
+-Cấu trúc dữ liệu & Giải thuật
 
+-Toán rời rạc
+
+-Phát triển nâng cao ứng dụng TBDĐ nền Android
 
 ## Nghiên cứu
 
