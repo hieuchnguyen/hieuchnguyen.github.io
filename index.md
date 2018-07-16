@@ -1,4 +1,4 @@
-# Giới thiệu
+## Giới thiệu
 
 -Học vị: Thạc sĩ
 
@@ -8,27 +8,17 @@
 
 -Phone: 
 
+## Giảng dạy
+
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 2018-2019
 
-- Bulleted
-- List
+- Cấu trúc dữ liệu & Giải thuật
+- Toán rời rạc
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Nghiên cứu
+## Nghiên cứu
 
 -Cryptography
 
