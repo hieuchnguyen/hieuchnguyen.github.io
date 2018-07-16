@@ -1,27 +1,27 @@
 ## Giới thiệu
 
--Học vị: Thạc sĩ
+- Học vị: Thạc sĩ
 
--Chuyên ngành: Khoa học máy tính
+- Chuyên ngành: Khoa học máy tính
 
--Email: [email](nguyenchihieu@)
+- Email: [email](nguyenchihieu@)
 
--Phone: 
+- Phone: 
 
 ## Giảng dạy
 
 ### 2018-2019
 
--Cấu trúc dữ liệu & Giải thuật
+- Cấu trúc dữ liệu & Giải thuật
 
--Toán rời rạc
+- Toán rời rạc
 
--Phát triển nâng cao ứng dụng TBDĐ nền Android
+- Phát triển nâng cao ứng dụng TBDĐ nền Android
+- [Trí tuệ nhân tạo](https://hieuchnguyen.github.io/teaching/ai)
 
 ## Nghiên cứu
 
--Cryptography
+- Bảo mật thông tin
 
--Cryptanalysis
-
+- Lập trình thiết bị di động
 
