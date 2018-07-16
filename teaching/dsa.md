@@ -1,8 +1,16 @@
 ## Cấu trúc dữ liệu & Giải thuật
 
 ### Giới thiệu môn học
+- Khái niệm thuật toán, cách tính độ phức tạp của các thuật toán đệ quy và không đệ quy.
+- Ý tưởng, cách cài đặt và đánh giá một số thuật toán tìm kiếm, sắp xếp.
+- Các cấu trúc dữ liệu động như: danh sách liên kết, ngăn xếp, hàng đợi, cây, ... và ứng dụng của nó.
 
 ### Tài liệu tham khảo
+
+1. Dương Anh Đức, Trần Hạnh Nhi. "Nhập môn Cấu trúc dữ liệu và Thuật toán". Đại học Khoa học tự nhiên TP Hồ Chí Minh 2003.
+2. Donald E. Knuth. "The Art of Computer Programming, Volume 3". Addison-Wesley 1998.
+3. Robert Sedgewick. "Algorithms in C". Addison-Wesley 1990.
+4. Niklaus Wirth. "Algorithms + Data Structures = Programs". Prentice-Hall 1976.
 
 ### Nội dung môn học
 
