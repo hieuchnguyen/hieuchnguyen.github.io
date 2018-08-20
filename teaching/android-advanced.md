@@ -1,15 +1,17 @@
 # Phát triển ứng dụng nâng cao cho TBDĐ nền Android
 
 
+
+
 ## Giới thiệu môn học
 
-- Tên môn học: **Phát triển ứng dụng nâng cao cho TBDĐ nền Android**
-- Số tín chỉ: 4 (3 + 1)
+* Tên môn học: **Phát triển ứng dụng nâng cao cho TBDĐ nền Android**
+* Số tín chỉ: 4 (3 + 1)
 
 ## Mục tiêu môn học
 Cung cấp cho sinh viên kiến thức về:
-- Kỹ năng: trang bị cho sinh viên các kỹ năng thực hành cơ bản để làm các bài tập và cài đặt ứng dụng liên quan đến những chủ đề lý thuyết đã được trình bày.
-- Kiến thức: cung cấp cho sinh viên kiến thức nâng cao trong lập trình di động trên nền tảng Android.
+* Kiến thức: cung cấp cho sinh viên kiến thức nâng cao trong lập trình di động trên nền tảng Android (truy xuất dữ liệu từ Web services, bản đồ, cảm biến, đồ họa, ...).
+* Kỹ năng: trang bị cho sinh viên các kỹ năng thực hành cơ bản để làm các bài tập và cài đặt ứng dụng liên quan đến những chủ đề lý thuyết đã được trình bày.
 
 ## Tài liệu tham khảo
 
@@ -18,6 +20,7 @@ Cung cấp cho sinh viên kiến thức về:
 [3]: https://developers.google.com/vision/
 
 ## Nội dung môn học
+
 | STT  | Nội dung                  | Số tiết | Tham khảo |
 | :--: | ------------------------- | :-----: | --------- |
 |  1   | SQLite                    |    5    | [1]       |
@@ -48,6 +51,3 @@ Cung cấp cho sinh viên kiến thức về:
 * Thực hành: 40%
   * Bài tập cá nhân: 20%
   * Đồ án (nhóm 3-4 sinh viên): 20%
-
-
-
