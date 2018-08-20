@@ -8,7 +8,7 @@
 * Số tín chỉ: 4 (3 + 1)
 
 ## Mục tiêu môn học
-Cung cấp cho sinh viên kiến thức về:
+Cung cấp cho sinh viên về:
 
 * Khái niệm thuật toán, cách tính độ phức tạp của các thuật toán đệ quy và không đệ quy.
 * Ý tưởng, cách cài đặt và đánh giá một số thuật toán tìm kiếm, sắp xếp.
