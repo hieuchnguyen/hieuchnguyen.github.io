@@ -15,7 +15,7 @@ Cung cấp cho sinh viên kiến thức về:
 
 ## Tài liệu tham khảo
 
-1. a [1]: https://developer.android.com	"(https://developer.android.com)"
+[1]: https://developer.android.com	"(https://developer.android.com)"
 [2]: https://firebase.com
 [3]: https://www.json.org
 [4]: https://developers.google.com/vision
