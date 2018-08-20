@@ -17,9 +17,6 @@ Cung cấp cho sinh viên kiến thức về:
 [2]: https://firebase.com
 [3]: https://developers.google.com/vision/
 
-
-
-
 ## Nội dung môn học
 
 | STT  | Nội dung                  | Số tiết | Ghi chú  |
@@ -48,12 +45,10 @@ Cung cấp cho sinh viên kiến thức về:
 
 ## Hình thức đánh giá
 
-### Lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
-
-### Thực hành: 40%
-
-* Bài tập cá nhân: 20%
-* Đồ án (nhóm 3-4 sinh viên): 20%
+* Lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
+* Thực hành: 40%
+  * Bài tập cá nhân: 20%
+  * Đồ án (nhóm 3-4 sinh viên): 20%
 
 
 
