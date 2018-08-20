@@ -1,6 +1,8 @@
 # Phát triển ứng dụng nâng cao cho TBDĐ nền Android
 
 
+
+
 ## Giới thiệu môn học
 
 * Tên môn học: **Phát triển ứng dụng nâng cao cho TBDĐ nền Android**
@@ -8,20 +10,20 @@
 
 ## Mục tiêu môn học
 
-Cung cấp cho sinh viên kiến thức về:
+Cung cấp cho sinh viên về:
 * Kiến thức: cung cấp cho sinh viên kiến thức nâng cao trong lập trình di động trên nền tảng Android (truy xuất dữ liệu từ Web services, bản đồ, cảm biến, đồ họa, ...).
 * Kỹ năng: trang bị cho sinh viên các kỹ năng thực hành cơ bản để làm các bài tập và cài đặt ứng dụng liên quan đến những chủ đề lý thuyết đã được trình bày.
 
 ## Tài liệu tham khảo
 
 1. https://developer.android.com
-2. https://firebase.com
-3. https://www.json.org
+2. https://www.json.org
+3. https://firebase.com
 4. https://developers.google.com/vision
 
 [1]: https://developer.android.com
-[2]: https://firebase.com
-[3]: https://www.json.org
+[2]: https://www.json.org
+[3]: https://firebase.com
 [4]: https://developers.google.com/vision
 
 ## Nội dung môn học
@@ -29,10 +31,10 @@ Cung cấp cho sinh viên kiến thức về:
 | STT  | Nội dung                  | Số tiết | Tham khảo |
 | :--: | ------------------------- | :-----: | --------- |
 |  1   | SQLite                    |    5    | [1]       |
-|  2   | Networking                |    5    | [1]       |
-|  3   | XML & JSON                |    5    | [1], [3]  |
-|  4   | Thread & AsyncTask        |    5    | [1]       |
-|  5   | Firebase                  |    5    | [1], [2]  |
+|  2   | XML & JSON                |    5    | [1], [2]  |
+|  3   | Thread & AsyncTask        |    5    | [1]       |
+|  4   | Networking                |    5    | [1]       |
+|  5   | Firebase                  |    5    | [1], [3]  |
 |  6   | Locations & Maps          |    5    | [1]       |
 |  7   | Sensors                   |    5    | [1]       |
 |  8   | Graphics                  |    5    | [1]       |
