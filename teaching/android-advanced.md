@@ -17,7 +17,8 @@ Cung cấp cho sinh viên kiến thức về:
 
 [1]: https://developer.android.com
 [2]: https://firebase.com
-[3]: https://developers.google.com/vision/
+[3]: https://www.json.org
+[4]: https://developers.google.com/vision/
 
 ## Nội dung môn học
 
@@ -25,14 +26,14 @@ Cung cấp cho sinh viên kiến thức về:
 | :--: | ------------------------- | :-----: | --------- |
 |  1   | SQLite                    |    5    | [1]       |
 |  2   | Networking                |    5    | [1]       |
-|  3   | XML & JSON                |    5    | [1]       |
+|  3   | XML & JSON                |    5    | [1], [3]  |
 |  4   | Thread & AsyncTask        |    5    | [1]       |
 |  5   | Firebase                  |    5    | [1], [2]  |
 |  6   | Locations & Maps          |    5    | [1]       |
 |  7   | Sensors                   |    5    | [1]       |
 |  8   | Graphics                  |    5    | [1]       |
 |  9   | Game in Android (seminar) |    3    | [1]       |
-|  10  | Mobile Vision(seminar)    |    2    | [3]       |
+|  10  | Mobile Vision(seminar)    |    2    | [4]       |
 
 ### Chủ đề seminar
 
