@@ -1,4 +1,4 @@
-# Phát triển ứng dụng nâng cao cho TBDĐ nền Android
+# aPhát triển ứng dụng nâng cao cho TBDĐ nền Android
 
 
 
@@ -15,7 +15,7 @@ Cung cấp cho sinh viên kiến thức về:
 
 ## Tài liệu tham khảo
 
-[1]: https://developer.android.com	"(https://developer.android.com)"
+[1]: https://developer.android.com
 [2]: https://firebase.com
 [3]: https://www.json.org
 [4]: https://developers.google.com/vision
