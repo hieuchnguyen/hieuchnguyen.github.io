@@ -1,4 +1,4 @@
-# aPhát triển ứng dụng nâng cao cho TBDĐ nền Android
+# Phát triển ứng dụng nâng cao cho TBDĐ nền Android
 
 
 
