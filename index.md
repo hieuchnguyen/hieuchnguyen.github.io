@@ -2,7 +2,7 @@
 
 - Học vị: Thạc sĩ
 - Chuyên ngành: Khoa học máy tính
-- Email: [email](nguyenchihieu@)
+- Email:
 - Phone: 
 
 ## Giảng dạy
