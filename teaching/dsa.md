@@ -2,7 +2,7 @@
 
 ### Giới thiệu môn học
 
-- Tên môn học: CẤU TRÚC DỮ LIỆU & GIẢI THUẬT (Data Structures & Algorithms)
+- Tên môn học: Cấu trúc dữ liệu & Giải thuật (Data Structures & Algorithms)
 - Số tín chỉ: 4 (3 + 1)
 
 ### Mục tiêu môn học
@@ -28,3 +28,10 @@ Cung cấp cho sinh viên kiến thức về:
 |  4  | Danh sách liên kết | 10 |
 |  5  | Ngăn xếp & hàng đợi | 5 |
 |  6  | Cấu trúc cây | 10 |
+
+## Hình thức đánh giá
+
+* Lý thuyết: 60% 
+* Thực hành: 40%
+  * Bài tập cá nhân: 20%
+  * Đồ án (nhóm 3-4 sinh viên): 20%
