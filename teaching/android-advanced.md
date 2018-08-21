@@ -17,12 +17,14 @@ Cung cấp cho sinh viên về:
 ## Tài liệu tham khảo
 
 1. https://developer.android.com
-2. https://www.json.org
-3. https://firebase.com
-4. https://developers.google.com/vision
+2. https://www.sqlite.org
+3. https://www.json.org
+4. https://firebase.com
+5. https://developers.google.com/vision
 
 [1]: https://developer.android.com
-[2]: https://www.json.org
+[2]: https://www.sqlite.org
+[3]: https://www.json.org
 [3]: https://firebase.com
 [4]: https://developers.google.com/vision
 
@@ -30,16 +32,16 @@ Cung cấp cho sinh viên về:
 
 | STT  | Nội dung                  | Số tiết | Tham khảo |
 | :--: | ------------------------- | :-----: | --------- |
-|  1   | SQLite                    |    5    | [1]       |
-|  2   | XML & JSON                |    5    | [1], [2]  |
+|  1   | SQLite                    |    5    | [1], [2]  |
+|  2   | XML & JSON                |    5    | [1], [3]  |
 |  3   | Thread & AsyncTask        |    5    | [1]       |
 |  4   | Networking                |    5    | [1]       |
-|  5   | Firebase                  |    5    | [1], [3]  |
+|  5   | Firebase                  |    5    | [1], [4]  |
 |  6   | Locations & Maps          |    5    | [1]       |
 |  7   | Sensors                   |    5    | [1]       |
 |  8   | Graphics                  |    5    | [1]       |
 |  9   | Game in Android (seminar) |    3    | [1]       |
-|  10  | Mobile Vision(seminar)    |    2    | [4]       |
+|  10  | Mobile Vision(seminar)    |    2    | [5]       |
 
 ### Chủ đề seminar
 
