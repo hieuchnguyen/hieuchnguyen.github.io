@@ -8,7 +8,7 @@
 * Số tín chỉ: 4 (3 + 1)
 
 ## Mục tiêu môn học
-Cung cấp cho sinh viên về:
+Cung cấp cho sinh viên kiến thức về:
 
 * Khái niệm thuật toán, cách tính độ phức tạp của các thuật toán đệ quy và không đệ quy.
 * Ý tưởng, cách cài đặt và đánh giá một số thuật toán tìm kiếm, sắp xếp.
@@ -31,10 +31,20 @@ Cung cấp cho sinh viên về:
 | 4    | Danh sách liên kết                                  | 10      |
 | 5    | Ngăn xếp & hàng đợi                                 | 5       |
 | 6    | Cấu trúc cây                                        | 10      |
+| 7    | Seminar của sinh viên                               |         |
+
+### Chủ đề seminar
+
+* Chia để trị
+* Quay lui
+* Danh sách liên kết đôi
+* Hàng đợi ưu tiên
+* Cây cân bằng
+* Hàm băm/Bảng băm
 
 ## Hình thức đánh giá
 
 * Lý thuyết: 60% 
 * Thực hành: 40%
-  * Bài tập cá nhân: 20%
-  * Đồ án (nhóm 3-4 sinh viên): 20%
+  * Bài tập cá nhân: 30%
+  * Đồ án (nhóm 3-4 sinh viên): 10%
