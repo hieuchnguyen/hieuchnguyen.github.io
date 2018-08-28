@@ -63,9 +63,15 @@ Cung cấp cho sinh viên về:
   
 ## Seminar
 | STT | Tên đồ án | Trưởng nhóm | Số lượng sv |
-| 1 | Nhận dạng khuôn mặt | Nhan Ngọc Dương | 3 |
-| 2 | Nhận dạng QRCode | Nguyễn Chí Tường | 4 |
+
+| 1 | Lập trình game 2D | Nguyễn Trọng Nghĩa | 1 |
+
+| 2 | Game engine | Lê Nhật Trường | 4 |
+
 | 3 | Thực tế tăng cường (AR) | Trần Hoài Bảo | 3 |
-| 4 | Nhận dạng văn bản | Nguyễn Bảo Trân | 4 |
-| 5 | Lập trình game 2D | Nguyễn Trọng Nghĩa | 1 |
-| 6 | Game engine | Lê Nhật Trường | 4 |
+
+| 4 | Nhận dạng khuôn mặt | Nhan Ngọc Dương | 3 |
+
+| 5 | Nhận dạng QRCode | Nguyễn Chí Tường | 4 |
+
+| 6 | Nhận dạng văn bản | Nguyễn Bảo Trân | 4 |
