@@ -25,8 +25,8 @@ Cung cấp cho sinh viên về:
 [1]: https://developer.android.com
 [2]: https://www.sqlite.org
 [3]: https://www.json.org
-[3]: https://firebase.com
-[4]: https://developers.google.com/vision
+[4]: https://firebase.com
+[5]: https://developers.google.com/vision
 
 ## Nội dung môn học
 
