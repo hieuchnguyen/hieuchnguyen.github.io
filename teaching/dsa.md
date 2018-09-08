@@ -2,26 +2,26 @@
 
 
 
-## Giới thiệu môn học
+## 1. Giới thiệu môn học
 
 * Tên môn học: **Cấu trúc dữ liệu & Giải thuật** (Data Structures & Algorithms)
 * Số tín chỉ: 4 (3 + 1)
 
-## Mục tiêu môn học
+## 2. Mục tiêu môn học
 Cung cấp cho sinh viên kiến thức về:
 
 * Khái niệm thuật toán, cách tính độ phức tạp của các thuật toán đệ quy và không đệ quy.
 * Ý tưởng, cách cài đặt và đánh giá một số thuật toán tìm kiếm, sắp xếp.
 * Các cấu trúc dữ liệu động như: danh sách liên kết, ngăn xếp, hàng đợi, cây, ... và ứng dụng của nó.
 
-## Tài liệu tham khảo
+## 3. Tài liệu tham khảo
 
 1. Dương Anh Đức, Trần Hạnh Nhi. "Nhập môn Cấu trúc dữ liệu và Thuật toán". Đại học Khoa học tự nhiên TP Hồ Chí Minh 2003.
 2. Donald E. Knuth. "The Art of Computer Programming, Volume 3". Addison-Wesley 1998.
 3. Robert Sedgewick. "Algorithms in C". Addison-Wesley 1990.
 4. Niklaus Wirth. "Algorithms + Data Structures = Programs". Prentice-Hall 1976.
 
-## Nội dung môn học
+## 4. Nội dung môn học
 
 | STT  | Nội dung                                            | Số tiết |
 | ---- | --------------------------------------------------- | ------- |
@@ -33,7 +33,7 @@ Cung cấp cho sinh viên kiến thức về:
 | 6    | Cấu trúc cây                                        | 10      |
 | 7    | Seminar của sinh viên                               | 10      |
 
-## Hình thức đánh giá
+## 5. Hình thức đánh giá
 
 * Lý thuyết: 60% 
 * Thực hành: 40%
