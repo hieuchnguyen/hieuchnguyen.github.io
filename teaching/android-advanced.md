@@ -3,18 +3,19 @@
 
 
 
-## Giới thiệu môn học
+
+## 1. Giới thiệu môn học
 
 * Tên môn học: **Phát triển ứng dụng nâng cao cho TBDĐ nền Android**
 * Số tín chỉ: 4 (3 + 1)
 
-## Mục tiêu môn học
+## 2. Mục tiêu môn học
 
 Cung cấp cho sinh viên về:
 * Kiến thức: cung cấp cho sinh viên kiến thức nâng cao trong lập trình di động trên nền tảng Android (truy xuất dữ liệu từ Web services, bản đồ, cảm biến, đồ họa, ...).
 * Kỹ năng: trang bị cho sinh viên các kỹ năng thực hành cơ bản để làm các bài tập và cài đặt ứng dụng liên quan đến những chủ đề lý thuyết đã được trình bày.
 
-## Tài liệu tham khảo
+## 3. Tài liệu tham khảo
 
 1. https://developer.android.com
 2. https://www.sqlite.org
@@ -28,7 +29,7 @@ Cung cấp cho sinh viên về:
 [4]: https://firebase.com
 [5]: https://developers.google.com/vision
 
-## Nội dung môn học
+## 4. Nội dung môn học
 
 | STT  | Nội dung                  | Số tiết | Tham khảo |
 | :--: | ------------------------- | :-----: | --------- |
@@ -43,18 +44,7 @@ Cung cấp cho sinh viên về:
 |  9   | Game in Android (seminar) |    3    | [1]       |
 |  10  | Mobile Vision(seminar)    |    2    | [5]       |
 
-### Chủ đề seminar
-
-* Lập trình Game trong Android
-  * Sử dụng SurfaceView và Thread
-  * Giới thiệu một số Game Engine
-* Thư viện Android Vision
-  * Phát hiện khuôn mặt (Detect Faces)
-  * Đọc mã vạch (Scan Barcodes)
-  * Nhận dạng văn bản (Recognize Text)
-* Chủ đề khác (sinh viên tự đề xuất và được giảng viên đồng ý)
-
-## Hình thức đánh giá
+## 5. Hình thức đánh giá
 
 * Lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
 * Thực hành: 40%
