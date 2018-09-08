@@ -25,22 +25,13 @@ Cung cấp cho sinh viên kiến thức về:
 
 | STT  | Nội dung                                            | Số tiết |
 | ---- | --------------------------------------------------- | ------- |
-| 1    | Ôn tập kiến thức                                    | 5       |
-| 2    | Giới thiệu thuật toán và độ phức tạp của thuật toán | 5       |
-| 3    | Các thuật toán tìm kiếm, sắp xếp                    | 10      |
-| 4    | Danh sách liên kết                                  | 10      |
+| 1    | Ôn tập kiến thức                                    | 3       |
+| 2    | Giới thiệu thuật toán và độ phức tạp của thuật toán | 3       |
+| 3    | Các thuật toán tìm kiếm, sắp xếp                    | 7       |
+| 4    | Danh sách liên kết                                  | 7       |
 | 5    | Ngăn xếp & hàng đợi                                 | 5       |
 | 6    | Cấu trúc cây                                        | 10      |
-| 7    | Seminar của sinh viên                               |         |
-
-### Chủ đề seminar
-
-* Chia để trị
-* Quay lui
-* Danh sách liên kết đôi
-* Hàng đợi ưu tiên
-* Cây cân bằng
-* Hàm băm/Bảng băm
+| 7    | Seminar của sinh viên                               | 10      |
 
 ## Hình thức đánh giá
 
