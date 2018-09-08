@@ -17,4 +17,3 @@
 ## Nghiên cứu
 
 - Bảo mật thông tin
-- Lập trình thiết bị di động
