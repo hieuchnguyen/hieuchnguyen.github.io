@@ -46,7 +46,7 @@ Cung cấp cho sinh viên về:
 
 ## 5. Hình thức đánh giá
 
-* Lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
-* Thực hành: 40%
+* Điểm lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
+* Điểm quá trình: 40%
   * Seminar (nhóm 3-4 sinh viên): 10%
   * Kiểm tra thực hành: 30%
