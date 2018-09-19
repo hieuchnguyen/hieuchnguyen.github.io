@@ -37,7 +37,7 @@ Cung cấp cho sinh viên kiến thức về:
 
 ## 5. Hình thức đánh giá
 
-* Lý thuyết: 60% 
-* Thực hành: 40%
-  * Bài tập cá nhân: 30%
-  * Đồ án (nhóm 3-4 sinh viên): 10%
+* Điểm lý thuyết: 60% 
+* Điểm quá trình: 40%
+  * Seminar (nhóm 3-4 sinh viên): 10%
+  * Kiểm tra thực hành: 30%
