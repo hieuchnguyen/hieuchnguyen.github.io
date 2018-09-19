@@ -48,5 +48,5 @@ Cung cấp cho sinh viên về:
 
 * Lý thuyết: 60 % (Thời gian: 60 phút + Được sử dụng tài liệu)
 * Thực hành: 40%
-  * Bài tập cá nhân: 20%
-  * Đồ án (nhóm 3-4 sinh viên): 20%
+  * Seminar (nhóm 3-4 sinh viên): 10%
+  * Kiểm tra thực hành: 30%
