@@ -38,7 +38,7 @@ Cung cấp cho sinh viên về:
 |      | - Cây và cây khung, cây khung tối tiểu     |         |               |
 |      | - Thuật toán Prim                          |         |               |
 |      | - Thuật toán Kruskal                       |         |               |
-|  6   | Chương 6. Bài toán luồng cự đại trong mạng |    3    | [1] chương 6  |
+|  6   | Chương 6. Bài toán luồng cự đại trong mạng |    3    | [1] c6        |
 |  7   | Ôn tập                                     |    3    |               |
 
 ## 5. Hình thức đánh giá
