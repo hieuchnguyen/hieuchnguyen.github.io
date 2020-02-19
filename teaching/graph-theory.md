@@ -25,18 +25,18 @@ Cung cấp cho sinh viên về:
 
 | STT  | Nội dung                                   | Số tiết |   Tham khảo   |
 | :--: | ------------------------------------------ | :-----: | ------------- |
-|  1   | Chương 1. Tổng quan về đồ thị              |    6    | [1] c1,[2] c7 |
-|  2   | Chương 2. Các bài toán về chu trình        |    3    | [1] c2,[2] c7 |
+|  1,2 | Chương 1. Tổng quan về đồ thị              |    6    | [1] c1,[2] c7 |
+|  3,4 | Chương 2. Các bài toán về chu trình        |    3    | [1] c2,[2] c7 |
 |      | - Chu trình Euler                          |         |               |
 |      | - Chu trình Hamilton                       |         |               |
-|      | Chương 3. Bài toán tìm đường đi ngắn nhất  |    6    | [1] c5,[2] c7 |
+|  5,6 | Chương 3. Bài toán tìm đường đi ngắn nhất  |    6    | [1] c5,[2] c7 |
 |      | - Thuật toán Dijkstra                      |         |               |
 |      | - Thuật toán Bellman-Ford                  |         |               |
 |      | - Thuật toán Floyd-Warshall                |         |               |
-|  4   | Chương 4. Đồ thị phẳng                     |    3    | [1] c3,[2] c7 |
-|  5   | Chương 5. Bài toán tìm cây khung tổi tiểu  |    6    | [1] c4,[2] c8 |
+|  7   | Chương 4. Đồ thị phẳng                     |    3    | [1] c3,[2] c7 |
+|  8,9 | Chương 5. Bài toán tìm cây khung tổi tiểu  |    6    | [1] c4,[2] c8 |
 |      | - Cây và cây khung, cây khung tối tiểu     |         |               |
-|      | - Thuật toán Prim                          |         |               |
+|  10  | - Thuật toán Prim                          |         |               |
 |      | - Thuật toán Kruskal                       |         |               |
 |  6   | Chương 6. Bài toán luồng cực đại trong mạng|    3    | [1] c6        |
 |  7   | Ôn tập                                     |    3    |               |
