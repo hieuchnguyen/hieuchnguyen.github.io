@@ -25,21 +25,21 @@ Cung cấp cho sinh viên về:
 
 | STT  | Nội dung                                   | Số tiết |   Tham khảo   |
 | :--: | ------------------------------------------ | :-----: | ------------- |
-|  1   | Chương 1. Tổng quan về đồ thị              |    6    | [1], [2], [3] |
-|  2   | Chương 2. Các bài toán về chu trình        |    3    | [1], [2], [3] |
-|  4   | - Giới thiệu bài toán tìm chu trình        |         | [1], [2], [3] |
-|  4   | - Chu trình Euler                          |         | [1], [2], [3] |
-|  4   | - Chu trình Hamilton                       |         | [1], [2], [3] |
-|  4   | Chương 3. Bài toán tìm đường đi ngắn nhất  |    6    | [1], [2], [3] |
-|     | - Thuật toán Dijkstra                       |         | [1], [2], [3] |
-|  6   | - Thuật toán Bellman-Ford                  |         | [1], [2], [3] |
-|  7   | - Thuật toán Floyd-Warshall                |         | [1], [2], [3] |
-|  8   | Chương 4. Đồ thị phẳng                     |    3    | [1], [2]      |
-|  9   | Chương 5. Cây                              |    6    | [1], [2], [3] |
-|  10  | - Cây và cây khung                         |         | [1], [2], [3] |
-|  10  | - Cây khung tối tiểu                       |         | [1], [2], [3] |
-|  10  |Chương 6. Bài toán luồng cự đại trong mạng  |    3    | [1], [2], [3] |
-|  10  |Ôn tập                                      |    3    | [1], [2], [3] |
+|  1   | Chương 1. Tổng quan về đồ thị              |    6    | [1] c1,[2] c7 |
+|  2   | Chương 2. Các bài toán về chu trình        |    3    | [1] c2,[2] c7 |
+|      | - Chu trình Euler                          |         |               |
+|      | - Chu trình Hamilton                       |         |               |
+|      | Chương 3. Bài toán tìm đường đi ngắn nhất  |    6    | [1] c5,[2] c7 |
+|      | - Thuật toán Dijkstra                      |         |               |
+|      | - Thuật toán Bellman-Ford                  |         |               |
+|      | - Thuật toán Floyd-Warshall                |         |               |
+|  4   | Chương 4. Đồ thị phẳng                     |    3    | [1] c3,[2] c7 |
+|  5   | Chương 5. Bài toán tìm cây khung tổi tiểu  |    6    | [1] c4,[2] c8 |
+|      | - Cây và cây khung, cây khung tối tiểu     |         |               |
+|      | - Thuật toán Prim                          |         |               |
+|      | - Thuật toán Kruskal                       |         |               |
+|  6   | Chương 6. Bài toán luồng cự đại trong mạng |    3    | [1] chương 6  |
+|  7   | Ôn tập                                     |    3    |               |
 
 ## 5. Hình thức đánh giá
 
