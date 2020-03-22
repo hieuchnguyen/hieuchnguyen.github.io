@@ -20,7 +20,9 @@ Ngôn ngữ C# cung cấp nhiều kiểu dữ liệu nguyên thủy như: bool, 
 
 ## Các vấn đề với kiểu dữ liệu
 
-### So sánh các số thực
+### Số thực dấu chấm động
+
+Số thực dấu chấm động _(floating point)_ được dùng để biểu diễn xấp xỉ của các số thập phân. Các quy tắc biểu diễn số thực dấu chấm động được mô tả trong tiêu chuẩn quốc tế IEEE 754.
 
 ```csharp
 double a = 0.15 + 0.15;
