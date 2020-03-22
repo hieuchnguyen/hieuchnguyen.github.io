@@ -18,4 +18,15 @@ Hằng là một biến được khai báo và khởi tạo giá trị chỉ m�
 ## Kiểu dữ liệu
 Ngôn ngữ C# cung cấp nhiều kiểu dữ liệu nguyên thủy như: bool, char, int, double, string, ...
 
-## Các vbấn đề với kiểu dữ liệu
+## Các vấn đề với kiểu dữ liệu
+
+### So sánh các số thực
+
+```csharp
+double a = 0.15 + 0.15;
+double b = 0.1 + 0.2;
+
+Console.WriteLine(a == b); // False
+Console.WriteLine(a >= b); // False
+Console.WriteLine(a <= b); // True
+```
