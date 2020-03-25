@@ -58,5 +58,5 @@
 
 * Điểm lý thuyết: 60% 
 * Điểm quá trình: 40%
-  * Seminar (nhóm 3-4 sinh viên): 10%
+  * Seminar/Đồ án (nhóm 3-4 sinh viên): 10%
   * Kiểm tra thực hành: 30%
