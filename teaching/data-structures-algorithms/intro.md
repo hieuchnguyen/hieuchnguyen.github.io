@@ -4,7 +4,7 @@
 ## 1. Giới thiệu học phần
 
 * Tên học phần: **Cấu trúc dữ liệu & Giải thuật** (Data Structures & Algorithms)
-* Số tín chỉ: 4 (3 + 1)
+* Số tín chỉ: 4 (3LT, 1TH)
 
 ## 2. Mục tiêu học phần
 * Học phần cung cấp kiến thức về các cách tổ chức cấu trúc dữ liệu trên máy tính như: danh sách liên kết, hàng đợi, ngăn xếp, cấu trúc cây và các ứng dụng của nó.
