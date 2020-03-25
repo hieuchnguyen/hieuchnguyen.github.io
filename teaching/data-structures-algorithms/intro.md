@@ -26,8 +26,21 @@
 |     |  1.2. Các phương pháp biểu diễn thuật toán   |   |
 |     |  1.3. Đệ quy                                 |   |
 | 2   |  1.4. Độ phức tạp của thuật toán             | 3 |
-| 2   | Chương 2. Các thuật toán tìm kiếm và sắp xếp | 12|
-| 3   | Chương 3. Danh sách liên kết                 | 12|
+| 3   | Chương 2. Các thuật toán tìm kiếm và sắp xếp | 3 |
+|     |  2.1. Các thuật toán tìm kiếm                |   |
+| 4   |  2.2. Các thuật toán sắp xếp cơ bản          |   |
+| 5   |  2.3. QuickSort                              | 3 |
+|     |  2.4. MergeSort                              |   |
+| 6   |  2.5. HeapSort                               | 3 |
+|     |  2.6. RadixSort                              |   |
+| 7   | Chương 3. Danh sách liên kết                 | 3 |
+3.1. Giới thiệu cấu trúc dữ liệu động
+3.2. Danh sách liên kết đơn
+3.3. Ứng dụng của danh sách liên kết đơn
+3.4. Danh sách liên kết kép
+3.5. Danh sách liên kết vòng
+3.6. Ngăn xếp
+3.7. Hàng đợi
 | 4   | Chương 4. Cấu trúc cây                       | 12|
 | 5   | Chương 5. Bảng băm                           | 5 |
 | 6   | Cấu trúc cây                                 | 10|
