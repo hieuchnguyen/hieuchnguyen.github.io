@@ -7,7 +7,7 @@
 * Số tín chỉ: 4 (3LT, 1TH)
 
 ## 2. Mục tiêu học phần
-* Học phần cung cấp kiến thức về các cách tổ chức cấu trúc dữ liệu trên máy tính như: danh sách liên kết, hàng đợi, ngăn xếp, cấu trúc cây và các ứng dụng của nó.
+* Học phần cung cấp kiến thức về các cách tổ chức cấu trúc dữ liệu trên máy tính như: danh sách liên kết, hàng đợi, ngăn xếp, cấu trúc cây, bảng băm và các ứng dụng của nó.
 * Học phần cũng cung cấp các kiến thức về một số thuật toán cơ bản và kỹ năng đánh giá độ phức tạp của các thuật toán.
 
 ## 3. Tài liệu tham khảo
