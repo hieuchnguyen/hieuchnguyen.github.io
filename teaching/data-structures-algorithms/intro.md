@@ -21,13 +21,13 @@
 
 | STT  | Nội dung                                            | Số tiết |
 | ---- | --------------------------------------------------- | ------- |
-| 1    | Ôn tập kiến thức                                    | 3       |
-| 2    | Giới thiệu thuật toán và độ phức tạp của thuật toán | 3       |
-| 3    | Các thuật toán tìm kiếm, sắp xếp                    | 7       |
-| 4    | Danh sách liên kết                                  | 7       |
-| 5    | Ngăn xếp & hàng đợi                                 | 5       |
-| 6    | Cấu trúc cây                                        | 10      |
-| 7    | Seminar của sinh viên                               | 10      |
+| 1    | Chương 1. Các khái niệm cơ bản về thuật toán | 6 |
+| 2    | Chương 2. Các thuật toán tìm kiếm và sắp xếp | 12|
+| 3    | Chương 3. Danh sách liên kết                 | 12|
+| 4    | Chương 4. Cấu trúc cây                       | 12|
+| 5    | Chương 5. Bảng băm                           | 5 |
+| 6    | Cấu trúc cây                                 | 10|
+| 7    | Ôn tập                        | 10|
 
 ## 5. Hình thức đánh giá
 
