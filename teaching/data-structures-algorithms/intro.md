@@ -1,9 +1,6 @@
 # Cấu trúc dữ liệu & Giải thuật
 
 
-
-
-
 ## 1. Giới thiệu môn học
 
 * Tên môn học: **Cấu trúc dữ liệu & Giải thuật** (Data Structures & Algorithms)
