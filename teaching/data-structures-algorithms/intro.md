@@ -21,10 +21,11 @@
 
 | STT | Nội dung | Số tiết |
 | --- | ------------------ | --- |
-| 1   | Chương 1. Các khái niệm cơ bản về thuật toán | 6 |\
-|     |  1.1. Khái niệm về thuật toán
-|     |  1.2. Các phương pháp biểu diễn thuật toán
-|     |  1.3. Đệ quy
+| 1   | Chương 1. Các khái niệm cơ bản về thuật toán | 3 |
+|     |  1.1. Khái niệm về thuật toán                |   |
+|     |  1.2. Các phương pháp biểu diễn thuật toán   |   |
+|     |  1.3. Đệ quy                                 |   |
+| 2   |  1.4. Độ phức tạp của thuật toán             | 3 |
 | 2   | Chương 2. Các thuật toán tìm kiếm và sắp xếp | 12|
 | 3   | Chương 3. Danh sách liên kết                 | 12|
 | 4   | Chương 4. Cấu trúc cây                       | 12|
