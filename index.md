@@ -15,6 +15,7 @@
 
 - Học kỳ 2
   - [Lý thuyết đồ thị](https://hieuchnguyen.github.io/teaching/graph-theory/graph-theory)
+  - [Phân tích dữ liệu](https://hieuchnguyen.github.io/teaching/graph-theory/graph-theory)
 
 ## Nghiên cứu
 
