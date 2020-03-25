@@ -1,17 +1,14 @@
 # Cấu trúc dữ liệu & Giải thuật
 
 
-## 1. Giới thiệu môn học
+## 1. Giới thiệu học phần
 
-* Tên môn học: **Cấu trúc dữ liệu & Giải thuật** (Data Structures & Algorithms)
+* Tên học phần: **Cấu trúc dữ liệu & Giải thuật** (Data Structures & Algorithms)
 * Số tín chỉ: 4 (3 + 1)
 
-## 2. Mục tiêu môn học
-Cung cấp cho sinh viên kiến thức về:
-
-* Khái niệm thuật toán, cách tính độ phức tạp của các thuật toán đệ quy và không đệ quy.
-* Ý tưởng, cách cài đặt và đánh giá một số thuật toán tìm kiếm, sắp xếp.
-* Các cấu trúc dữ liệu động như: danh sách liên kết, ngăn xếp, hàng đợi, cây, ... và ứng dụng của nó.
+## 2. Mục tiêu học phần
+* Học phần cung cấp kiến thức về các cách tổ chức cấu trúc dữ liệu trên máy tính như: danh sách liên kết, hàng đợi, ngăn xếp, cấu trúc cây và các ứng dụng của nó.
+* Học phần cũng cung cấp các kiến thức về một số thuật toán cơ bản và kỹ năng đánh giá độ phức tạp của các thuật toán.
 
 ## 3. Tài liệu tham khảo
 
@@ -20,7 +17,7 @@ Cung cấp cho sinh viên kiến thức về:
 3. Robert Sedgewick. "Algorithms in C". Addison-Wesley 1990.
 4. Niklaus Wirth. "Algorithms + Data Structures = Programs". Prentice-Hall 1976.
 
-## 4. Nội dung môn học
+## 4. Nội dung học phần
 
 | STT  | Nội dung                                            | Số tiết |
 | ---- | --------------------------------------------------- | ------- |
