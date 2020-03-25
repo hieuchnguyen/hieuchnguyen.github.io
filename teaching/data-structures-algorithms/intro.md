@@ -52,7 +52,7 @@
 |     | 5.1. Giới thiệu hàm băm, bảng băm            |   |
 |     | 5.2. Đụng độ trong hàm băm                   |   |
 |     | 5.3. Các phương pháp xử lý đụng độ           |   |
-| 15  | Ôn tập                                       | 3 |
+| 15  | **Ôn tập**                                   | 3 |
 
 ## 5. Hình thức đánh giá
 
