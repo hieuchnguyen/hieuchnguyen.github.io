@@ -1,5 +1,7 @@
 # Nguyễn Chí Hiếu
 
+{% include button.html text="I'm a button" link="https://david.darn.es" %}
+
 - Học vị: Thạc sĩ
 - Chuyên ngành: Khoa học máy tính
 - Email:
