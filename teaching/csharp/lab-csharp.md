@@ -1,7 +1,7 @@
 # NỘI DUNG THỰC HÀNH
 
 - Bài 1. Tổng quan lập trình C#
-- Bài 2. Biến & Kiểu dữ liệu
+- Bài 2. Biến & Các phép toán
 - Bài 3. Cấu trúc điều khiển
 - Bài 1. Hàm
 - Bài 5. Mảng 1 chiều, 2 chiều
