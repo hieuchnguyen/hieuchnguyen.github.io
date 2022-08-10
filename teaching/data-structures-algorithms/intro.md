@@ -10,7 +10,9 @@
 * Học phần cung cấp kiến thức về các cách tổ chức cấu trúc dữ liệu trên máy tính như: danh sách liên kết, hàng đợi, ngăn xếp, cấu trúc cây, bảng băm và các ứng dụng của nó.
 * Học phần cũng cung cấp các kiến thức về một số thuật toán cơ bản và kỹ năng đánh giá độ phức tạp của các thuật toán.
 
-## 3. Tài liệu tham khảo
+## 3. Giáo trình & Tài liệu tham khảo
+Bài giảng tổng hợp 
+https://github.com/hieuchnguyen/hieuchnguyen.github.io/blob/7a335aa12a38d06796caa08e6769e2ebd3a6351d/teaching/data-structures-algorithms/lectures/Hieu.%20Cau%20truc%20du%20lieu%20Giai%20thuat.%202021.pdf
 
 1. Dương Anh Đức, Trần Hạnh Nhi. "Nhập môn Cấu trúc dữ liệu và Thuật toán". Đại học Khoa học tự nhiên TP Hồ Chí Minh 2003.
 2. Donald E. Knuth. "The Art of Computer Programming, Volume 3". Addison-Wesley 1998.
