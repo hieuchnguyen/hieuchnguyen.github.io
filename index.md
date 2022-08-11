@@ -3,8 +3,7 @@
 
 - Học vị: Thạc sĩ
 - Chuyên ngành: Khoa học máy tính
-- Email:
-- Phone: 
+- Email: [nguyenchihieu@mku.edu.vn](nguyenchihieu@mku.edu.vn)
 
 ## Giảng dạy
 
