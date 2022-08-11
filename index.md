@@ -1,4 +1,4 @@
-# Nguyễn Chí Hiếu
+# NGUYỄN CHÍ HIẾU
 
 
 - Học vị: Thạc sĩ
